@@ -14,6 +14,13 @@
   <a href="https://github.com/Celcouzz?tab=repositories"><img src="https://img.shields.io/github/stars/Celcouzz?style=flat&color=e3b341" alt="Stars" /></a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/celvinsaputra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/celvinsaputra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/Celcouzz"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:celvinsaputra@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ### 🖥️ Terminal Access: `ssh celcouzz@dev-server`
@@ -68,6 +75,16 @@
 * 🔌 **IoT & Hardware** — Engineered sensor integration (MPU6050, DHT11, LDR, servo actuators) utilizing ESP32.
 * 🎮 **Game Design** — Authored the comprehensive Game Design Document (GDD) for *"Guardian's Gambit"*.
 
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Celcouzz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
