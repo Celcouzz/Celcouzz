@@ -68,23 +68,7 @@
 * 🔌 **IoT & Hardware** — Engineered sensor integration (MPU6050, DHT11, LDR, servo actuators) utilizing ESP32.
 * 🎮 **Game Design** — Authored the comprehensive Game Design Document (GDD) for *"Guardian's Gambit"*.
 
----
 
-### 📊 GitHub Activity Dashboard
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Celcouzz&theme=radical&background=0D1117&hide_border=true&v=2" alt="GitHub Streak" />
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 <h3 align="center">💡 Motivation & Dev Joke</h3>
 
