@@ -84,12 +84,12 @@
 
 ---
 
-### 💡 Daily Dev Quote & Joke
+<h3 align="center">💡 Motivation & Dev Joke</h3>
 
 <div align="center">
-  <h3><i>"One day, all late nights will make sense."</i></h3>
-  <br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Dev Joke" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff5e7e&center=true&vCenter=true&width=600&lines=%22One+day%2C+all+late+nights+will+make+sense.%22" alt="Quote" />
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
 </div>
 
 <div align="center">
