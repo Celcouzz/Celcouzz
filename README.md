@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Celvin%20Saputra&fontSize=70&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Celvin%20Saputra&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Enthusiast&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Practical+Web+Apps;Crafting+Modern+UI%2FUX;Exploring+AI+Workflows;Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+(Mobile%2FWeb);Data+Science+%26+Cybersecurity;IoT+%26+Hardware+Integration;Writing+Clean%2C+Maintainable+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,17 +23,17 @@
   "profile": {
     "name": "Celvin Saputra",
     "codename": "Celcouzz",
-    "class": "Fullstack Web Developer",
-    "base_of_operations": "Indonesia 🇮🇩"
+    "class": "Software Engineer & Data Enthusiast",
+    "education": "Informatics Engineering, UMM",
+    "base_of_operations": "Malang, Indonesia 🇮🇩"
   },
   "current_loadout": {
-    "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-    "backend": ["Node.js", "Laragon", "MySQL"],
-    "mobile": ["Flutter"],
-    "tools": ["VSCode", "Git", "PowerShell", "Antigravity AI"]
+    "languages": ["Python", "Dart", "JavaScript", "TypeScript", "C/C++", "SQL"],
+    "frameworks": ["Flutter", "React", "Tailwind CSS"],
+    "cloud_db": ["MySQL", "Firebase", "Linux"],
+    "hardware": ["ESP32", "Microcontrollers", "Sensors"]
   },
-  "status": "Online and ready for new challenges 🚀",
-  "mission_log": "Crafting pixel-perfect, high-performance applications with clean architecture."
+  "working_philosophy": "Writing clean, maintainable code, building user-centric interfaces, and leveraging data for practical decision-making."
 }
 ```
 
@@ -45,18 +45,28 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <b>💻 Core Development</b><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" />
+        <b>💻 Languages & Frameworks</b><br><br>
+        <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,js,ts,html,css,react,tailwind,flutter" />
       </td>
       <td align="center" width="50%">
-        <b>⚙️ Tools & DB</b><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode,mysql" /><br><br>
-        <img src="https://img.shields.io/badge/Server-Laragon-0098d5?style=flat-square" alt="Laragon"/>
-        <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=flat-square" alt="Antigravity"/>
+        <b>⚙️ Cloud, DB & Tools</b><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql,firebase,linux,git,github,vscode,figma" /><br><br>
+        <img src="https://img.shields.io/badge/IoT-ESP32_&_Sensors-00979D?style=flat-square&logo=espressif" alt="ESP32"/>
+        <img src="https://img.shields.io/badge/Data_Science-Analytics-FF6F00?style=flat-square" alt="Data Science"/>
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 📂 Mission Logs (Projects & Experience)
+
+* 📱 **Mobile Applications** — Developed mobile sales and catalog apps using Flutter (e.g., Muktijaya1 / retail apps).
+* 🌐 **Web Development** — Built the Pantai Modangan Tourism platform and Alumni Tracking System for UMM.
+* 📊 **Data Science & Cybersec** — Progressive Scholar at DBS Foundation Coding Camp (Data Scientist Track) & Certified in Cybersecurity by Komdigi.
+* 🔌 **IoT & Hardware** — Engineered sensor integration (MPU6050, DHT11, LDR, servo actuators) utilizing ESP32.
+* 🎮 **Game Design** — Authored the comprehensive Game Design Document (GDD) for *"Guardian's Gambit"*.
 
 ---
 
@@ -80,8 +90,7 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <div align="center">
