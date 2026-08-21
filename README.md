@@ -69,6 +69,20 @@
 * 🎮 **Game Design** — Authored the comprehensive Game Design Document (GDD) for *"Guardian's Gambit"*.
 
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Celcouzz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Celcouzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Celcouzz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celcouzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  </a>
+</div>
+
+---
 
 <h3 align="center">💡 Motivation & Dev Joke</h3>
 
