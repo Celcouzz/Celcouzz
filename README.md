@@ -9,11 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk3Nm8xajNoNXV1bTF2YmJveTFrazYzdWhiNW8wdzF2aXUzeW5rdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TjSPQgowhhJdHgvnwA/giphy.gif" alt="Animated GIF" width="250" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Celcouzz"><img src="https://komarev.com/ghpvc/?username=Celcouzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/Celcouzz?tab=followers"><img src="https://img.shields.io/github/followers/Celcouzz?label=Followers&style=flat&color=2ea043" alt="Followers" /></a>
+  <a href="https://github.com/Celcouzz?tab=repositories"><img src="https://img.shields.io/github/stars/Celcouzz?style=flat&color=e3b341" alt="Stars" /></a>
 </p>
 
 ---
