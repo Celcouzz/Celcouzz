@@ -87,8 +87,8 @@
 ### 💡 Daily Dev Quote & Joke
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br><br>
+  <h3><i>"One day, all late nights will make sense."</i></h3>
+  <br>
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Dev Joke" />
 </div>
 
