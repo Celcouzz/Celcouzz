@@ -1,86 +1,80 @@
-<h1 align="center">🎮 Welcome to My Developer Hub</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Celvin%20Saputra&fontSize=70&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=55&descAlign=62" alt="Header" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Practical+Web+Apps;Crafting+Modern+UI%2FUX;Exploring+AI+Workflows;Turning+Coffee+into+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <em>Building practical tools, web apps, and modern digital experiences.</em>
-</p>
-
-<h3 align="center">Turning ideas into working projects.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Celcouzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Celcouzz?label=Followers&style=flat&color=2ea043" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Celcouzz?style=flat&color=e3b341" alt="Stars" />
+  <a href="https://github.com/Celcouzz"><img src="https://komarev.com/ghpvc/?username=Celcouzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/Celcouzz?tab=followers"><img src="https://img.shields.io/github/followers/Celcouzz?label=Followers&style=flat&color=2ea043" alt="Followers" /></a>
+  <a href="https://github.com/Celcouzz?tab=repositories"><img src="https://img.shields.io/github/stars/Celcouzz?style=flat&color=e3b341" alt="Stars" /></a>
 </p>
 
 ---
 
-### 🕹️ Player Profile
+### 🖥️ Terminal Access: `ssh celcouzz@dev-server`
 
-```yaml
-name: Celvin Saputra
-username: Celcouzz
-role: Fullstack Web Developer
-main_focus:
-  - Web App Development
-  - UI/UX Implementation
-  - Database Management
-  - AI-Assisted Workflows
-current_mission: Build high-quality web applications with clean code, modern aesthetics, and solid architecture.
+```json
+{
+  "profile": {
+    "name": "Celvin Saputra",
+    "codename": "Celcouzz",
+    "class": "Fullstack Web Developer",
+    "base_of_operations": "Indonesia 🇮🇩"
+  },
+  "current_loadout": {
+    "frontend": ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+    "backend": ["Node.js", "Laragon", "MySQL"],
+    "mobile": ["Flutter"],
+    "tools": ["VSCode", "Git", "PowerShell", "Antigravity AI"]
+  },
+  "status": "Online and ready for new challenges 🚀",
+  "mission_log": "Crafting pixel-perfect, high-performance applications with clean architecture."
+}
 ```
 
-I am a developer who enjoys creating practical software, from interactive web apps to robust backend systems. My projects often explore modern web development, UI/UX optimization, and efficient developer workflows.
+---
 
-This GitHub profile is my personal development space — a place where I document my learning journey, experiments, and tools that I build to solve real problems.
+### ⚡ Tech Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>💻 Core Development</b><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" />
+      </td>
+      <td align="center" width="50%">
+        <b>⚙️ Tools & DB</b><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode,mysql" /><br><br>
+        <img src="https://img.shields.io/badge/Server-Laragon-0098d5?style=flat-square" alt="Laragon"/>
+        <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=flat-square" alt="Antigravity"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🚀 Main Storyline
+### 📊 GitHub Activity Dashboard
 
-I build and explore projects across several areas:
-
-* 💻 **Web App Development** — Frontend and full-stack application experiments using React, Next.js, and Tailwind CSS.
-* 📱 **Mobile Development** — Cross-platform mobile concepts using Flutter.
-* ⚙️ **Tools & Automation** — Streamlining workflows using Git, PowerShell, and AI Assistants.
-* 🗄️ **Database & Server** — Local server management and database architectures using Laragon and MySQL.
-
----
-
-### ⚔️ Skill Loadout
-
-<h4 align="center">💻 Web App Development</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,mysql" />
-  </a>
-</p>
-
-<h4 align="center">⚙️ Tools & Workflow</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Server-Laragon-0098d5?style=for-the-badge" alt="Laragon"/>
-  <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity"/>
-</p>
-
----
-
-### 🏆 Achievements & Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Celcouzz&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Celcouzz&theme=radical&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Ini adalah placeholder untuk animasi Snake -->
+  <!-- GitHub Snake Animation Placeholder -->
+  <!-- Nanti kamu perlu mengatur GitHub Action untuk menghasilkan animasi ular dari akunmu sendiri -->
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+### 📬 Comm Link
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -89,3 +83,7 @@ I build and explore projects across several areas:
   <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer" />
+</div>
