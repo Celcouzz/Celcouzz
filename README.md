@@ -2,10 +2,25 @@
 
 <br>
 
+<h3 align="center">💻 Web App Development</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,svelte,graphql,go,rust,react,python,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,mysql" />
   </a>
+</p>
+
+<h3 align="center">⚙️ Tools & Workflow</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Server-Laragon-0098d5?style=for-the-badge" alt="Laragon"/>
+  <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity"/>
 </p>
 
 <br>
@@ -26,13 +41,7 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Celcouzz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
-  </a>
-</p>
 
-<br>
 
 <p align="center">
   <!-- Ini adalah placeholder untuk animasi Snake -->
