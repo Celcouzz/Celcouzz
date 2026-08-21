@@ -77,9 +77,11 @@
 </div>
 
 <p align="center">
-  <!-- GitHub Snake Animation Placeholder -->
-  <!-- Nanti kamu perlu mengatur GitHub Action untuk menghasilkan animasi ular dari akunmu sendiri -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
