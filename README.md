@@ -67,15 +67,24 @@
 * 📊 **Data Science & Cybersec** — Progressive Scholar at DBS Foundation Coding Camp (Data Scientist Track) & Certified in Cybersecurity by Komdigi.
 * 🔌 **IoT & Hardware** — Engineered sensor integration (MPU6050, DHT11, LDR, servo actuators) utilizing ESP32.
 * 🎮 **Game Design** — Authored the comprehensive Game Design Document (GDD) for *"Guardian's Gambit"*.
+---
 
+### 📊 GitHub Activity Dashboard
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Celcouzz/Celcouzz/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<h3 align="center">💡 Motivation & Dev Joke</h3>
+---
+
+<h3 align="center">💡 Motivation</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff5e7e&center=true&vCenter=true&width=600&lines=%22One+day%2C+all+late+nights+will+make+sense.%22" alt="Quote" />
-  <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
 </div>
 
 <div align="center">
