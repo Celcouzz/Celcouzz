@@ -73,7 +73,7 @@
 ### 📊 GitHub Activity Dashboard
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Celcouzz&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Celcouzz&theme=radical&background=0D1117&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 
 <p align="center">
